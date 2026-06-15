@@ -52,7 +52,7 @@ The dashboard helps answer key business questions:
 
 ## Dashboard
 
-Interactive Tableau dashboard:
+![Dashboard Preview](dashboard_overview.png)
 
 [View Dashboard](https://public.tableau.com/views/DA4_Final_Project_2026/GA4ConversionFunnelAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
